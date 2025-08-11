@@ -1,5 +1,5 @@
 {
-    "name": "bluesMr/docker-php-sdk",
+    "name": "blues-mr/docker-php-sdk",
     "description": "Docker Engine API v1.45 PHP SDK Client",
     "type": "library",
     "license": "MIT",
@@ -36,5 +36,6 @@
     }
 
 }
+
 
 
